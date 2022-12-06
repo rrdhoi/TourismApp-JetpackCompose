@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="back_icon_info">Back</string>
+    <string name="heart_icon_info">Favorite Button</string>
+    <string name="profile_image_info">About Me</string>
+</resources>
